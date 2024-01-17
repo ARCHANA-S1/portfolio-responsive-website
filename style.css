@@ -1,0 +1,19 @@
+.card-body h1{
+ color: rgb(172, 36, 172);
+ text-decoration: underline;
+ font-family:'Gill Sans';
+}
+
+.carousel-item{
+    height:550px;
+    width: 350px;
+}
+
+.footer{
+    background-color: rgb(246, 198, 228);
+}
+
+.navbar-brand a{
+    color: blueviolet;
+    font-size: larger;
+}
